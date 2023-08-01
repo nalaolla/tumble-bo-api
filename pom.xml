@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>kr.co.tumble</groupId>
-	<artifactId>bo-api</artifactId>
+	<artifactId>tumble-bo-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bo-api</name>
-	<description>bo-api</description>
+	<name>tumble-bo-api</name>
+	<description>tumble-bo-api</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
