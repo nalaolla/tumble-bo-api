@@ -2,7 +2,7 @@ spring:
   profiles:
     active: local
   application:
-    name: x2bee-bo-api
+    name: tumble-bo-api
   messages:
     encoding: UTF-8
     use-code-as-default-message: false
